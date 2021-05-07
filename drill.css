@@ -1,0 +1,85 @@
+body {
+  font-family: "Teko", sans-serif;
+  background-color: lightgrey;
+}
+
+h2,
+p,
+.readme-wrapper {
+  text-align: center;
+}
+.boxes {
+  margin: 1rem;
+  padding: 1rem;
+  border: 2.5px solid slategray;
+  border-radius: 1rem;
+  width: 30em;
+}
+#box1 {
+  background-color: forestgreen;
+}
+#box2 {
+  background-color: orange;
+}
+#box3 {
+  background-color: saddlebrown;
+}
+#box4 {
+  background-color: dodgerblue;
+}
+a {
+  text-decoration: none;
+  color: aquamarine;
+}
+a:hover {
+  cursor: pointer;
+  color: antiquewhite;
+  font-weight: bold;
+}
+span {
+  font-weight: bold;
+  color: firebrick;
+}
+.custom {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: darkolivegreen;
+    position: absolute;
+}
+h1 {
+    color: cadetblue;
+}
+.original {
+  color: goldenrod;
+}
+.additional {
+  color: indigo;
+}
+#show1 {
+  color: aliceblue;
+}
+#show2 {
+  color: darkgreen;
+}
+#show3 {
+  color: aqua;
+}
+#show4 {
+  color: gold;
+}
+#show5 {
+  color: mediumspringgreen;
+}
+ul {
+  color: sienna;
+}
+.star {
+  color: teal;
+}
+#wars {
+  color: tomato;
+}
+.pumpkin {
+  border: 2px solid black;
+}
